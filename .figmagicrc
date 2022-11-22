@@ -1,0 +1,5 @@
+{
+  "syncGraphics": true,
+  "outputFolderTokens": "./design-system/figmagic/tokens",
+  "outputFolderGraphics": "./design-system/figmagic/graphics"
+}
